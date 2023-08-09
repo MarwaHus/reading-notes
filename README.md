@@ -14,3 +14,4 @@
 |The Growth Mindset||
 |Class 01||
 |Class 02|[class02](./class2.md)|
+|Class 03|[class03](./class3.md)|
