@@ -15,3 +15,4 @@
 |Class 01|[class01](./class1.md)|
 |Class 02|[class02](./class2.md)|
 |Class 03|[class03](./class3.md)|
+|Class 04|[class04](./class4.md)|
