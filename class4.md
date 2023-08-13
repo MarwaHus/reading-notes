@@ -41,8 +41,7 @@
         this.age = age;
         this.gpa = gpa;
     }
-    // declaring methods
-    }</pre>
+    // declaring methods}</pre>
 
 ---------------------------
 ### Binary, Decimal and Hexadecimal Numbers
