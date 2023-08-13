@@ -42,8 +42,7 @@
         this.gpa = gpa;
     }
     // declaring methods
-    }
-</pre>
+    }</pre>
 
 ---------------------------
 ### Binary, Decimal and Hexadecimal Numbers
