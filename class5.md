@@ -85,10 +85,14 @@ Search	|O(n)| O(n)|
 
 ### Recommended Readings
 1. Tutorials
-[Linked List Operations (Traverse, Insert, Delete)](https://www.programiz.com/dsa/linked-list-operations)
-[Types of Linked List](https://www.programiz.com/dsa/linked-list-types)
-[Java LinkedList](https://www.programiz.com/java-programming/linkedlist)
+* [Linked List Operations (Traverse, Insert, Delete)](https://www.programiz.com/dsa/linked-list-operations)
+* [Types of Linked List](https://www.programiz.com/dsa/linked-list-types)
+* [Java LinkedList](https://www.programiz.com/java-programming/linkedlist)
 2. Examples
-[Get the middle element of Linked List in a single iteration](https://www.programiz.com/java-programming/examples/get-middle-element-of-linkedlist)
-[Convert the Linked List into an Array and vice versa](https://www.programiz.com/java-programming/examples/linkedlist-array-conversion)
-[Detect loop in a Linked List](https://www.programiz.com/java-programming/examples/detect-loop-in-linkedlist)
+* [Get the middle element of Linked List in a single iteration](https://www.programiz.com/java-programming/examples/get-middle-element-of-linkedlist)
+* [Convert the Linked List into an Array and vice versa](https://www.programiz.com/java-programming/examples/linkedlist-array-conversion)
+* [Detect loop in a Linked List](https://www.programiz.com/java-programming/examples/detect-loop-in-linkedlist)
+
+###quiz 
+* [quiz](https://www.geeksforgeeks.org/data-structure-gq/top-mcqs-on-linked-list-data-structure-with-answers/)
+* [fill-in-the-blank ](https://quizlet.com/204481717/ch-17-linked-lists-fill-in-the-blank-flash-cards/)
