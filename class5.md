@@ -93,6 +93,6 @@ Search	|O(n)| O(n)|
 * [Convert the Linked List into an Array and vice versa](https://www.programiz.com/java-programming/examples/linkedlist-array-conversion)
 * [Detect loop in a Linked List](https://www.programiz.com/java-programming/examples/detect-loop-in-linkedlist)
 
-###quiz 
+### Quiz 
 * [quiz](https://www.geeksforgeeks.org/data-structure-gq/top-mcqs-on-linked-list-data-structure-with-answers/)
 * [fill-in-the-blank ](https://quizlet.com/204481717/ch-17-linked-lists-fill-in-the-blank-flash-cards/)
