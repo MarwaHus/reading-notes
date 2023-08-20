@@ -96,6 +96,6 @@
 
   -------------------------------------
 ###Quiz
-* [quiz]("https://quizlet.com/539019766/stacks-queues-and-deques-practice-quiz-flash-cards/")
+* [quiz](https://quizlet.com/539019766/stacks-queues-and-deques-practice-quiz-flash-cards/)
 * [fill-in-the-blank](https://www.pathwalla.com/2020/10/data-structures-stack-and-queues-fill.html)
 
