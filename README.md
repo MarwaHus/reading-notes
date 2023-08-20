@@ -17,3 +17,4 @@
 |Class 03|[class03](./class3.md)|
 |Class 04|[class04](./class4.md)|
 |Class 05|[class05](./class5.md)|
+|Class 06|[class06](./class6.md)|
