@@ -4,7 +4,8 @@
 
  ### What is Linked List
    A linked list is a linear data structure, in which the elements are not stored at contiguous memory locations. The elements in a linked list are linked using pointers as shown in the below image:
-  >![](R.png)
+  >![](./assets/R.png)
+  
 You have to start somewhere, so we give the address of the first node a special name called HEAD. Also, the last node in the linked list can be identified because its next portion points to NULL.
 <br>
 
@@ -21,6 +22,7 @@ We wrap both the data item and the next node reference in a struct as:
 };</pre>
 Understanding the structure of a linked list node is the key to having a grasp on it.<br>
 
+----------------------------
 ### Linked List Implementations in java
 >
 <pre>
@@ -62,17 +64,17 @@ class LinkedList {
   ### What are the types of linked list:
   1. Singly Linked List:<br>
    A singly linked list is a linear data structure in which the elements are not stored in contiguous memory locations and each element is connected only to its next element using a pointer.
-   >![](sl.png)
+   >![](./assets/sl.png)
 
 
  2. Doubly Linked List:<br>
      A doubly linked list (DLL) is a special type of linked list in which each node contains a pointer to the previous node as well as the next node of the linked list.
      <br>
-     >![](DLL1.png)<br>
+     >![](./assets/DLL1.png)<br>
      
 3. Circular Linked List
    A circular linked list is a variation of a linked list in which the last element is linked to the first element. This forms a circular loop.
-  > ![](circular-linked-list.webp)
+  > ![](./assets/circular-linked-list.webp)
 
 ### Linked List Complexity
 Time Complexity

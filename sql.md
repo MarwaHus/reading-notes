@@ -18,8 +18,8 @@ SQL is an essential skill that is required for anyone working with relational da
 # sql
 ![](sql1.PNG)
 ![](sql2.PNG)![](sql3.PNG)
-![](sql4.PNG)![](sql6.PNG)
-![](sql13.PNG)![](sql14.PNG)
-![](sql15.PNG)![](sql16.PNG)
-![](sql17.PNG)
-![](sql18.PNG)
+![](./assets/sql4.PNG)![](./assets/sql6.PNG)
+![](./assets/sql13.PNG)![](./assets/sql14.PNG)
+![](./assets/sql15.PNG)![](./assets/sql16.PNG)
+![](./assets/sql17.PNG)
+![](./assets/sql18.PNG)
