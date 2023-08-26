@@ -1,4 +1,4 @@
-# class 02
+# class 03
 
 ### Primitives vs. Objects
 

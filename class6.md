@@ -1,4 +1,4 @@
-# Class 6
+# Class 06
 
 ### Java OO Tutorial (review Object and Class, read the rest)
 
